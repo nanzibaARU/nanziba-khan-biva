@@ -71,3 +71,4 @@ various results
 
 ## Contact Info
 -**Email:** nk.nanziba@gmail.com
+-**LinkedIn:** [Link](https://www.linkedin.com/in/nanziba-nk/)
