@@ -8,7 +8,7 @@ challenges into opportunities will be considered as the foremost objective.
 ### Technical Skills: DBMS, Python, Data Analysis, AI, Problem Solving
 
 ## Education
-- B.Sc (Engg), CSE | Faridpur Engineering College, Bangladesh (_June 2024_) | CGPA: **3.52**/4.00
+- B.Sc (Engg), CSE | Faridpur Engineering College, Bangladesh (_June 2023_) | CGPA: **3.52**/4.00
 
 ## Research Area
 - Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision
