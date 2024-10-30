@@ -1,8 +1,11 @@
 # About Me
 
-Providing the best quality performance to accomplish goals of respective organization with utmost care as
-well as to achieve the professional skills and expertise for the advancement of the organization. Converting
-challenges into opportunities will be considered as the foremost objective.
+I am a highly accomplished machine learning enthusiast with a robust academic and research background,
+dedicated to developing innovative solutions that enhance decision-making processes and operational
+efficiency. My expertise encompasses artificial intelligence, machine learning, deep learning, and natural
+language processing, all aimed at advancing knowledge and making a tangible impact in the real world. I am
+eager to leverage my skills and experience to drive data-driven strategies and contribute to the success of my
+next career opportunity.
 
 
 ### Technical Skills: DBMS, Python, Data Analysis, AI, Problem Solving
