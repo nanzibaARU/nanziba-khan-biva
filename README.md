@@ -34,11 +34,11 @@ Language Models and Performance Analysis.
 ## Work Experience
 
 **Research Assistant**
-- Worked under the supervision of PhD Fellow of Department of Computer Science, Ashraful Islam Hridoy (_January 2024 - Present_)
+- Worked under the supervision of PhD Fellow of Department of Computer Science, Ashraful Islam (_January 2024 - Present_)
 – Published two research paper on Machine Learning and Natural Language Processing
 
 **Research Assistant**
-- Worked under the supervision of Adjunct Lecturer of Computer Science and Engineering, Md. Rany Ahmed (_January 2023 - October 2023_)
+- Worked under the supervision of Adjunct Lecturer of Computer Science and Engineering, FEC, Md. Rany Ahmed (_January 2023 - October 2023_)
 – Worked in the department’s research lab creating machine learning solutions.
 
 **IT Executive**
